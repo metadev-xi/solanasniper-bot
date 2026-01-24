@@ -6,6 +6,10 @@
   [![Version](https://img.shields.io/badge/version-1.0.0--mainnet-emerald.svg?style=for-the-badge)](https://0xtech.org)
   [![Status](https://img.shields.io/badge/status-live-success.svg?style=for-the-badge)](https://0xtech.org)
   [![Tech](https://img.shields.io/badge/stack-Rust%20%7C%20Node.js%20%7C%20Solana%20Web3%20SDK-black.svg?style=for-the-badge)](https://0xtech.org)
+
+[![Stars](https://img.shields.io/github/stars/metadev-xi/solanasniper-bot?style=social)](https://github.com/metadev-xi/solanasniper-bot)
+[![Forks](https://img.shields.io/github/forks/metadev-xi/solanasniper-bot?style=social)](https://github.com/metadev-xi/solanasniper-bot)
+[![Activity](https://img.shields.io/github/last-commit/metadev-xi/solanasniper-bot?style=flat-square&color=blue)](https://github.com/metadev-xi/solanasniper-bot)
 </div>
 
 ---
@@ -56,6 +60,17 @@ SolanaSniper Bot provides a comprehensive API surface for both frontend interact
 - **Telegram**: [Metadevxi](https://t.me/metadevxi)
 - **Website**: [https://0xtech.org](https://0xtech.org/)
 - **Email**: [metadevxi@gmail.com](mailto:metadevxi@gmail.com)
+
+
+## 🌟 Show Your Support
+
+If you find this project useful, please consider giving it a ⭐ on GitHub! It helps us keep the project active and reach more developers.
+
+- **Star this repo**
+- **Fork to customize**
+- **Follow for updates**
+
+---
 
 ## License
 
